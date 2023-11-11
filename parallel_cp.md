@@ -11,7 +11,7 @@ Le fichier de *destination* doit être créé puis changé de taille (identique 
 
 S'aider de *std::ifstream*, *std::ofstream* et *std::filesystem*.
 
-![](pcp_decoupage.png)
+![](images/pcp_decoupage.png)
 
 ## Utilisation
 
